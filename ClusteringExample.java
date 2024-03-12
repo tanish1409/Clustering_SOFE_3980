@@ -102,7 +102,6 @@ public class ClusteringExample {
             default:
                 System.out.println("Invalid choice. Please choose a valid option.");
                 break;
-
         }
 
 
